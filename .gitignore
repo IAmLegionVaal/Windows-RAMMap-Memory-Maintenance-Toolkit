@@ -1,0 +1,8 @@
+*.zip
+*.exe
+RAMMap/
+RAMMap_Memory_Maintenance_*/
+*.log
+before.json
+after.json
+comparison.json
